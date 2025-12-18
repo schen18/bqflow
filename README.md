@@ -43,7 +43,7 @@ pip install bqflow[all]
 
 Or install from source:
 ```bash
-git clone https://github.com/yourusername/bqflow.git
+git clone https://github.com/schen18/bqflow.git
 cd bqflow
 pip install -e .
 ```
